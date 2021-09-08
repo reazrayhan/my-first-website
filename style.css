@@ -4,3 +4,8 @@
   box-sizing: border-box;
   text-rendering: optimizeLegibility;
 }
+.done {
+  border: brown;
+  margin: 10px;
+  padding: 5px;
+}
